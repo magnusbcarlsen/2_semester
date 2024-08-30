@@ -1,2 +1,2 @@
-for at tilslutte kea_dev: 
-ssh magnus@kea_dev
+for at tilslutte kea-dev: 
+ssh magnus@kea-dev
